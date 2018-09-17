@@ -10,11 +10,19 @@ h2 {
 	font-family: "Arial";
 	font-size: 32px;
 	background-color: black;
+	margin-bottom: -1px;
+	margin-top: 40px;
 }
 h1 {
 	color: #FFC3F4;
 	font-family: "Arial";
 	background-color: black;
+	font-size: 70px;
+}
+
+.bio {
+	font-family: "Arial";
+	font-size: 26px;
 }
 
 body {
